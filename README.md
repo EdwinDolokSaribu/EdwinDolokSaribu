@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @EdwinDolokSaribu
-- 👀 I’m interested with Game and Movie
-- 🌱 I’m currently learning at STIKI Indonesia
-- 📫 How to reach me , you can contact me in edwinds0202@gmail.com
-
-<!---
-EdwinDolokSaribu/EdwinDolokSaribu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello everybody! let me introduce my self.
+- My name is Edwin Dolok Saribu, Im Studying at STMIK STIKOM INDONESIA and im at 5th Semester right now.
+- I was born in Southeast Sulawesi but I live at Bali right now, especially at Bangli City.
+- My Hobbies are playing Games 🎮 and watching Movies 🎥.
+- Okay, thats all about my introduction, feel free to contact me at 📧 edwinds0202@gmail.com. 
+- Welcome to my repository 👋.
